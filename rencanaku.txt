@@ -7,5 +7,6 @@ RENCANA JALAN2
 - Lombok kuy
   * lidah wetan
 - Jekardah
+  ^ Ke Tangerang
 - Bandung
 - Pontianak
