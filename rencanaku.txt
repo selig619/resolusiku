@@ -3,5 +3,6 @@ RENCANA JALAN2
 - Bali
   * Naik kapal
   * Nginep Jimbaran
+- Lombok kuy
 - Jekardah
 - Bandung
