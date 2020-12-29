@@ -1,0 +1,85 @@
+SENIN
+Aplin / PW (10.30) : Edmodo tar2je
+
+====================================================================================================================
+SELASA
+RPL (08.00) : https://hangouts.google.com/group/cbQeLBjvfiMyvH3z8
+
+Bhs Inggris (10.30) :   https://chat.whatsapp.com/L6QURKgiFURDg7xCmaCZpy.
+			https://meet.google.com/wds-xbtp-rzo
+
+Strukdat Lanjut (13.00) : https://chat.whatsapp.com/CVbQ8JsJAnn03cqgBY6P2L
+			  https://us02web.zoom.us/j/83681263790?pwd=N0VSa0k5NEtFQS9kWmVnZ1k4VU9xQT09
+			  Meeting ID: 836 8126 3790
+			  Passcode: sdl2020
+
+====================================================================================================================
+RABU
+PV (10.30) : https://chat.whatsapp.com/FRjec0Z6BnVCJkaplMPA2T
+	     https://us02web.zoom.us/j/87621171968?pwd=Z0FwR25KZTFnYU5td1lBUXU3bnNGZz09
+	     Meeting ID: 876 2117 1968
+	     Passcode: pv2020
+
+PRAK APLIN / PW ~~ (13.00)
+
+====================================================================================================================
+KAMIS
+Teori Graf (08.00) : https://us02web.zoom.us/j/86956207586?pwd=WFBSSFFoWU03eE5kWmJyU3d1a0w3QT09
+
+PRAK PV ~~ (10.30)
+
+Analisa Desain Sistem (13.00) : https://hangouts.google.com/group/2uvK7hMujnqGTv8V6
+
+====================================================================================================================
+JUMAT
+ECC Lvl 4 : Edmodo pfegv9
+
+Statistika Terapan (08.00) : https://us02web.zoom.us/j/85058590863?pwd=WGRGdUY4NkFha09BSGlTR2owbXVWQT09
+
+			     Meeting ID: 833 9433 1319 
+			     Passcode: 682000	
+====================================================================================================================
+Syntax CSS
+
+html,body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cb{ clear: both; }
+
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+
+====================================================================================================================
+
+Urutan Load PV
+Form1() , Form Load
+
+====================================================================================================================
+
+
+$dataUser = [
+        'firstName' => $tempFirstName,
+        'lastName' => $tempLastName,
+        'username' => $tempUname,
+        'password' => $tempPass,
+	'role' => $tempRole
+	'class' => []
+];
+
+$class = [
+        	
+];
+
+===================================================================================================================
+
+B+ Tree
+
+Deletion LEAF : 
+- Rotate : Geser kanan/kiri (ambil dari sibling yg lebih), copy ke atas
+- Merge : Merge biasa, yg hantu dari atas ilang (Recording KoEvan B+ 1:11:20)
+
